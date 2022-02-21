@@ -5,6 +5,8 @@ this car wiper can detect the rain and start cleaning the wind screen
 > CLEAN WIND SHEILD
 - Detect the rain
 - Clean the wind shield according to req
->![image](C:\Users\wel\Downloads\Rain-Sensing-Automatic-Car-Wiper-block.png)
-
+> design
+- uses a rain sensor 
+- uses a micro controller
+- uses an actuator(servo motor)
 
