@@ -1,4 +1,4 @@
-# M2_EMBSYS
+# M2_EMBSYS_case study
 EMBEDED SYSTEM PROJECT
 >>"this case study has a little resembelence from net  because i tried to get some info for further study "
 - i donot support any kind of palagrism 
