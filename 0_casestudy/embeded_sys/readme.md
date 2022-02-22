@@ -1,6 +1,6 @@
 # rain decting car wiper
 ## introduction
-this car wiper can detect the rain and start cleaning the wind screen so that the water dont make the view unclear for the
+this car wiper can detect the rain and start cleaning the wind screen so that the water dont make the view unclear for the driver
 ## requirments
 > CLEAN WIND SHEILD
 - Detect the rain
