@@ -7,7 +7,7 @@ this car wiper can detect the rain and start cleaning the wind screen
 - Clean the wind shield according to req
 > design
 - uses a rain sensor 
-- uses a micro controller
+- uses a micro controller 
 - uses an actuator(servo motor)
 # BLOCK DIAGRAM
 
