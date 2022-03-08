@@ -31,7 +31,10 @@
 > - usefull on an automobile
 > - this circuit can be used on home windows also
 > - every thing is automatic no need of manual involvement
-# S W O T analysis 
+
+
+# S W O T analysis
+![image](https://user-images.githubusercontent.com/94339884/157237131-be3a8160-3924-45a2-a2ac-19d39c6e0bc4.png) 
 >  ## strength : 
 >> - automatic
 >> - accuracy is good
@@ -47,6 +50,8 @@
 >> - power is most crucial
 >> - sensor should be not covered with any material
 # 4W' & 1H'
+![image](https://user-images.githubusercontent.com/94339884/157237310-50bd2894-8b74-4bef-98c7-de28b2354163.png)
+
 > - WHO
 >> - each automobile driver needs this carwiper
 > - WHAT
