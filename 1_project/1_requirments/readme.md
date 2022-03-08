@@ -26,3 +26,23 @@
 >> -The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory with read-while-write capabilities, 1 KB EEPROM, 2 KB SRAM, 23 general-purpose I/O lines, 32 general-purpose working registers, 3 flexible timer/counters with compare modes, internal and external interrupts, serial programmable USART, a byte-oriented 2-wire serial interface, SPI serial port, 6-channel 10-bit A/D converter (8 channels in TQFP and QFN/MLF packages), programmable watchdog timer with internal oscillator, and 5 software-selectable power-saving modes. The device operates between 1.8 and 5.5 volts. The device achieves throughput approaching 1 MIPS/MHz.[1]
 >> ### applications 
 >> -ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed. Perhaps the most common implementation of this chip is on the popular Arduino development platform, namely the Arduino Uno, Arduino Pro Mini[4] and Arduino Nano models.
+# applications
+> - this can be used as a windsheild cleaner
+> - usefull on an automobile
+> - this circuit can be used on home windows also
+> - every thing is automatic no need of manual involvement
+# S W O T analysis 
+>  ## strength : 
+>> - automatic
+>> - accuracy is good
+>> - operates differently in different intensities
+> ## threats
+>> - installation plays a crucial role
+>> - pins should be configured correctly
+>> - rainsensor should be secured
+> ## oppurtunites
+>> - automatic wiper is having a huge demand in automobile industry
+>> - further development can be made by adding humidity sensor
+> ## weakness 
+>> - power is most crucial
+>> - sensor should be not covered with any material
