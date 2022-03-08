@@ -46,3 +46,15 @@
 > ## weakness 
 >> - power is most crucial
 >> - sensor should be not covered with any material
+# 4W' & 1H'
+> WHO
+>> - each automobile driver needs this carwiper
+> WHAT
+>> - this is a automatic wiper which cleans windsheild so that the driver can see the road clearly
+> WHEN
+>> - when there changes in weather conditions and  when there is rain
+> WHERE
+>> - it can be used in any automobile or in a winsheild cleaing 
+> HOW
+>> - there is no need of human involvement it will operate by itself 
+
